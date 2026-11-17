@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Fabrício Albuquerque 👋</h1>
+<h1 align="center">Fabrício Albuquerque</h1>
 
 <p align="center">
-  <b>Consultor de Dados | Suporte de TI | SQL Server | SSRS | Power BI</b><br>
-  📍 São Paulo, Brasil
+  Dados e suporte de TI · SQL Server · SSRS · Power BI<br>
+  São Paulo, Brasil
 </p>
 
 <p align="center">
@@ -16,20 +16,17 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Profissional de TI com experiência em **análise de dados, suporte técnico e automação de processos**. Trabalho com consultas, validações e otimização diretamente em banco de dados, criação de relatórios e dashboards, e automações que reduzem trabalho manual e garantem a integridade das informações.
+Trabalho com dados e suporte de TI. Nos últimos 2 anos, o meu dia a dia foi mexer com banco de dados SQL Server, montar relatórios e arrumar dado errado em sistema e planilha.
 
-- 📊 Construo relatórios e dashboards com **SSRS** e **Power BI**
-- 🗄️ Otimizo queries, procedures e jobs no **SQL Server** (SQL Server Agent)
-- ⚙️ Automatizo rotinas e ETL com **Power Query** e **n8n**
-- 📈 Monitoro infraestrutura com **Grafana** e **Prometheus**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera (previsão: jul/2028)
-- 🔎 Aberto a novas oportunidades em dados, BI e TI
+Gosto de pegar um processo manual e repetitivo e fazer ele rodar sozinho. Também curto saber o que está acontecendo na infraestrutura, por isso montei um monitoramento com Grafana e Prometheus.
+
+Estou fazendo faculdade de Análise e Desenvolvimento de Sistemas na Anhanguera (termino em 2028) e procurando minha próxima oportunidade na área de dados, BI ou TI.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias
 
 **Dados e BI**
 
@@ -39,7 +36,7 @@ Profissional de TI com experiência em **análise de dados, suporte técnico e a
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Automação e Infraestrutura**
+**Automação e infraestrutura**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -47,7 +44,7 @@ Profissional de TI com experiência em **análise de dados, suporte técnico e a
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
-**Ferramentas e Suporte**
+**Outras**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -56,41 +53,23 @@ Profissional de TI com experiência em **análise de dados, suporte técnico e a
 
 ---
 
-## 💼 Experiência
+## Experiência
 
-**Auxiliar de TI — Geosiga** *(set/2024 – ago/2026)*
+**Auxiliar de TI na Geosiga** (set/2024 a ago/2026)
 
-- Desenvolvi e mantive relatórios **SSRS** e um modelo semântico no **Power BI** conectado ao SQL Server
-- Otimizei queries de relatórios para garantir boa performance aos usuários finais
-- Automatizei planilhas críticas de faturamento e ordens de serviço com **Power Query**
-- Criei e mantive **jobs no SQL Server Agent** para processamento automatizado de dados
-- Implementei rotinas de **backup** e configurei ambientes **Docker**
-- Construí solução de monitoramento com **Grafana + Prometheus**, com alertas para eventos críticos
-- Contribuí no desenvolvimento de uma aplicação de gestão de Ordens de Serviço
-- Prestei suporte técnico N1/N2 e documentei processos para transferência de conhecimento
-
----
-
-## 🎓 Formação e certificações
-
-- **Análise e Desenvolvimento de Sistemas** — Anhanguera *(2026 – 2028)*
-- **Técnico em TI (Ensino Médio Integrado)** — Proz *(2022 – 2024)*
-- Microsoft SQL Server 2022: Consultas Avançadas
-- Administrando Banco de Dados Microsoft SQL Server 2022
-- Power BI: Report Builder
-- SRE: Entenda a Confiabilidade dos Sistemas
+- Fiz e mantive relatórios em SSRS e um modelo no Power BI ligado ao SQL Server
+- Melhorei queries lentas de relatórios
+- Automatizei com Power Query as planilhas de faturamento e ordens de serviço
+- Criei e mantive jobs no SQL Server Agent
+- Configurei rotinas de backup dos bancos e ambientes Docker
+- Montei o monitoramento com Grafana e Prometheus, com alertas para problemas críticos
+- Ajudei a desenvolver um sistema de gestão de ordens de serviço
+- Dei suporte N1 e N2 para os usuários internos e documentei os processos
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Formação
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fabriciotabosa&show_icons=true&hide_border=true&theme=default" alt="Estatísticas GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciotabosa&layout=compact&hide_border=true" alt="Linguagens mais usadas">
-</p>
-
----
-
-<p align="center">
-  💬 Vamos conversar sobre dados, automação e TI!
-</p>
+- Análise e Desenvolvimento de Sistemas, Anhanguera (2026 a 2028)
+- Técnico em TI com Ensino Médio Integrado, Proz (2022 a 2024)
+- Cursos: SQL Server 2022 (consultas avançadas), Administração de Banco de Dados SQL Server 2022, Power BI Report Builder e SRE
